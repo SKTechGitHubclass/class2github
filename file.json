@@ -28,4 +28,38 @@ This is an update of  Dev Branch commit
 0
 
 
+<<<<<<< HEAD
 we are checking the git conflicts 
+=======
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a
+b
+c
+d
+e
+>>>>>>> cb21019330b2d3b73f53edfe89b89da5de7a7e44
+
+we are adding to test git merge conflicts 
