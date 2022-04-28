@@ -7,6 +7,12 @@ we are learning DevOps
 
 we are doing the wfh
 
+<<<<<<< HEAD
 second time we are editing the file 
 
 Branching strategies 
+=======
+second time we are editing the file
+
+This is an update of  Dev Branch commit 
+>>>>>>> 203fabf79ac0db21c22aa85ad47da85ca0b2a190
